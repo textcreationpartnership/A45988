@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the preventing frivolous, and vexatious law-sutes and giving remedy to the parties grieved, to recover their costs at law, in certain cases, where heretofore no costs were given.</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45988</idno>
+            <idno type="STC">Wing I321</idno>
+            <idno type="STC">ESTC R39290</idno>
+            <idno type="EEBO-CITATION">18367676</idno>
+            <idno type="OCLC">ocm 18367676</idno>
+            <idno type="VID">107362</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107362)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the preventing frivolous, and vexatious law-sutes and giving remedy to the parties grieved, to recover their costs at law, in certain cases, where heretofore no costs were given.</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>MDCXCVII [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Costs (Law) --  Ireland.</term>
+               <term>Ireland --  History --  1691-</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107362:1"/>
+            <p>AN ACT For the Preventing FRIVOLOUS, AND VEXATIOUS Law-Sutes; AND Giving Remedy to the Parties Grieved, to Recover their Coſts at Law, in certain Caſes, where heretofore no Coſts were given.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>Andrew Crook,</hi> Printer to the King's Moſt Excellent Majeſty, on <hi>Cork-Hill,</hi> near <hi>Copper-Alley.</hi> MDCXCVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:107362:2"/>
+            <pb n="3" facs="tcp:107362:2"/>
+            <head>An ACT for the Preventing Fri<g ref="char:EOLhyphen"/>volous, and Vexatious Law-Sutes, and giving Remedy to the Parties Grieved, to Recover their Coſts at Law, in certain Caſes, where heretofore no Coſts were given. CHAP. XXXV.</head>
+            <p>WHEREAS it is found by daily Experience, in the Courts at Law, that divers Malicious, and Evil Diſ<g ref="char:EOLhyphen"/>poſed perſons, on purpoſe, without any juſt Cauſe of Sute, do make ſeveral Innocent per<g ref="char:EOLhyphen"/>ſons, Defendants, joyntly with others, againſt whom they conceive they have good Cauſe of Action; and ſo, tho' ſuch Innocent perſon or per<g ref="char:EOLhyphen"/>ſons, ſo joined in the ſaid Action, ſhall be found (not Guilty) and Acquitted of the ſaid Action; Yet if any of the other Ioint Defendants ſhall be found Guilty, and a Verdict paſs againſt them, by the Common Laws of this Realm; ſuch Defendant, or Defendants ſo Acquitted, after all his, or their Trouble and Expence, in Defend<g ref="char:EOLhyphen"/>ing ſuch Action, is without Remedy to recover any Coſts of Sute againſt ſuch Plantiffs, for ſuch his, or their unjuſt Vexation, contrary to all Reaſon and Iuſtice. For Remedy whereof:</p>
+            <p>Be it Enacted by the King's Moſt Excellent Majeſty; by, and with the Advice and Conſent of the Lords Spiritual and Temporal, and Commons in this preſent Parliament Aſſembled, and by Authority of the ſame, That from, and
+<pb n="4" facs="tcp:107362:3"/>
+after the Firſt Day of <hi>May,</hi> which ſhall be in the Year of Our Lord God, One thouſand Six hundred and Ninety eight; if any perſon or perſons, ſhall be made Defendant, or Defen<g ref="char:EOLhyphen"/>dants with others, in any Action, Sute, or Plaint, in Treſpaſs <hi>Quare Clauſum fregit,</hi> or Treſpaſs of Aſſault and Battery, and ſuch perſon or perſons, ſo joyned in ſuch Action, ſhall upon Tryal of the ſame, be Acquitted by Verdict, altho' the other Defendant, or Defendants, in ſuch Action, ſhall be found Guilty, and a Ver<g ref="char:EOLhyphen"/>dict paſs againſt him, or them therein, every ſuch perſon and perſons ſo Acquitted, ſhall have, and Recover his, and their Coſts of Sute, for ſuch his, and their unjuſt Vexation, as if a Verdict had beén given againſt ſuch Plantiff, or Plantiffs, or a Verdict had been given for all the Defendants in ſuch Action, unleſs the Iudge or Iudges, before whom ſuch Cauſe ſhall be Tryed, ſhall immediately after the Tryal there<g ref="char:EOLhyphen"/>of, in open Court, Certifie upon the Record un<g ref="char:EOLhyphen"/>der his Hand, that there was a reaſonable Cauſe, for the making ſuch perſon or perſons, Defendant or Defendants to ſuch Action or Plaint.</p>
+            <p>And whereas by the Law, as it now ſtands, no Coſts of Sute can be awarded, or given to any perſon or perſons, in any Action that ſhall happen to recover, or have any Iudgment given for him upon any Demurrer in Law, by reaſon whereof many contentious perſons, make uſe of ſuch manner of Delays, on purpoſe to keép others from their Iuſt Right, or otherwiſe in<g ref="char:EOLhyphen"/>tending thereby, to weary them into ſome ſmall Compoſition, for what is really due unto them.</p>
+            <p>
+               <pb n="5" facs="tcp:107362:3"/>For Remedy whereof, be it further Enacted, That if it at any time from, and after the ſaid Firſt Day of <hi>May,</hi> any perſon or perſons, who ſhall Commence, or Proſecute any Action, or Plaint, in any Court of Record, whereupon any Demurrer, or Demurrers ſhall be joyned, by any Plantiff, or Defendant, Demandant, or Ten<g ref="char:EOLhyphen"/>nant, in any ſuth Sute or Sutes, he or they, for whom Iudgment or Iudgments ſhall be given, upon any ſuch Demurrer or Demurrers, ſhall have, and recover, his and their Coſts of Sute, to be awarded by the Court in ſuch like manner, as if ſuch Iudgment or Iudgments had beén given, or recovery had by ſuch party or parties, upon Action tryed by Iury, and Ver<g ref="char:EOLhyphen"/>dict paſſed for ſuch party therein; and that if any perſon or perſons, from, and after the Firſt Day of <hi>May,</hi> as aforeſaid, ſhall obtain ſuch, or any other Iudgment or Iudgments, in any His Majeſty's Courts of Record in this Kingdom, or any the Courts of the County Palatine of <hi>Tipperary,</hi> and the perſon or per<g ref="char:EOLhyphen"/>ſons againſt whom ſuch Iudgment or Iudg<g ref="char:EOLhyphen"/>ments ſhall be ſo given, ſhall in delay of Exe<g ref="char:EOLhyphen"/>cution thereupon, and with intent to annul ſuch Iudgment or Iudgments, Sue forth any Writ or Writs of Error; and afterwards the ſaid Iudg<g ref="char:EOLhyphen"/>ment or Iudgments, ſhall be Affirmed, or the ſaid Writ or Writs of Error Diſcontinued, or the Plantiff or Plantiffs therein, become Non-ſute; that then, and in every ſuch Caſe, the party or parties againſt whom ſuch Writ or Writs ſhall be ſo brought, ſhall recover his and their Coſts and Damages, at the diſcretion of the Iuſtices before whom ſuch Writ or Writs ſhall be ſo Sued, and to have Execution for
+<pb n="6" facs="tcp:107362:4"/>
+ſuch his or their Damages or Coſts, ſo re<g ref="char:EOLhyphen"/>covered by Writs of <hi>Capias ad Satisfaciendum, Fieri Facias,</hi> or <hi>Elegit,</hi> or any of them, at the Election of ſuch Party or Parties for whom ſuch Damages and Coſts ſhall be ſo awarded.</p>
+            <p>And whereas by the Laws of this Realm, no Coſts of Sute are Recoverable in any Action of Waſte, or Debt, to be brought upon the Sta<g ref="char:EOLhyphen"/>tute, for not ſetting forth of Tiths, nor in any Writ of <hi>Scire Facias,</hi> or <hi>Prohibition,</hi> which hath beén found very Miſchievous and Pre<g ref="char:EOLhyphen"/>judicial to the Sutors in ſuch Actions, and to ſuch Perſons, as for the recovering their juſt Rights have beén Forced to Sue forth the ſame. For Reformation whereof, for the future.</p>
+            <p>Be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That from, and after the Firſt day of <hi>May,</hi> aforeſaid, if any perſon or perſons bring any Action of Waſte, or Action of Debt, upon the Statute, for not ſetting forth of Tyths, in which ſaid ſeveral Actions, the Single Value, or Damage Found by the Iury, or Iuries, in any ſuch Action, ſhall not exceéd the Summ of Threé pounds, the Plantiff or Plantiffs recovering, either by Iudgment up<g ref="char:EOLhyphen"/>on Verdict, or Demurrer in ſuch Action or Actions, ſhall likewiſe have and recover his and their Coſts of Sute, at the like Diſcretion of the Iuſtices before whom ſuch Writ or Writs ſhall be brought, and Iudgment or Iudgments therein given, as alſo if any perſon or perſons ſhall after the time aforeſaid, Sue forth any Writ or Writs of <hi>Scire Facias,</hi> or Commence any Sute or Sutes in prohibition, and recover, and have Iudgment in the ſame, either by Ver<g ref="char:EOLhyphen"/>dict or upon Demurrer, every ſuch Plantiff or
+<pb n="7" facs="tcp:107362:4"/>
+Plantiffs ſo recovering, ſhall likewiſe have, and recover his and their Coſts of Sute in ſuch Action or Actions, at the Diſcretion of the Iuſtices, before whom ſuch Recovery ſhall be ſo had; and if it ſhall happen in any the Sutes aforeſaid, that the Plantiff or Plantiffs in ſuch Action or Actions, ſhall become Non-Sute, or Verdict, or Verdicts paſs againſt him or them, in ſuch Sute or Action, or he, or they ſhall diſcontinue ſuch his or their Sute or Action: Then (in all ſuch Caſes) the De<g ref="char:EOLhyphen"/>fendant, or Defendants, in ſuch Action or Acti<g ref="char:EOLhyphen"/>ons, ſhall have and recover his and their Coſts of Sute in ſuch manner as ſuch Plantiff or Plantiffs ſhould have done, if he or they had Recovered, and had Iudgment given for them in ſuch Action or Actions, as aforeſaid, any Law, Cuſtom, Practice, or Vſage to the con<g ref="char:EOLhyphen"/>trary thereof, in any-wiſe notwithſtanding.</p>
+            <p>And that in all the Actions aforeſaid, where any of the party or parties to the ſame, ſhall ſo recover their Coſts of Sute, it ſhall, and may be Lawful to, and for them, or any of them to Sue forth Execution for ſuch his or their Coſts by Writs of <hi>Capias ad Satisfaciendum, Fieri Facias,</hi> or <hi>Elegit,</hi> as aforeſaid.</p>
+            <p>And for the preventing Willful and Mali<g ref="char:EOLhyphen"/>cious Treſpaſſes, to be brought for the future.</p>
+            <p>Be it further Enacted, that from and after the Firſt day of <hi>May</hi> aforeſaid, in all Actions of Treſpaſs to be Commenced and Proſecuted in any of His Majeſty's Courts of Record at <hi>Dublin;</hi> wherein at the Tryal of the Cauſe it ſhall appear, and be Certified by the Iudge, or Iudges, before whom ſuch Cauſe ſhall be Tryed under his or their Hands, on the back of the
+<pb n="8" facs="tcp:107362:5"/>
+Record, that the Treſpaſs upon which any De<g ref="char:EOLhyphen"/>fendant ſhall be found Guilty, was Willful<g ref="char:EOLhyphen"/>ly and Maliciouſly committed; In every ſuch Caſe, the Plantiff ſhall not only recover his Damages, aſſeſſed by the Iury, but his full Coſts of Sute, to be Taxed for him by the Di<g ref="char:EOLhyphen"/>rection of the Court, where ſuch Action ſhall be Tryed.</p>
+            <p>Provided nevertheleſs, That no Alteration of the ſame ſhall be made in any the Caſes aforeſaid, where any Executor or Adminiſtra<g ref="char:EOLhyphen"/>tor ſhall be Defendant, in any the Actions, or Sutes aforeſaid, ſo at any time hereafter to be brought againſt them; but that in all ſuch Caſes, they ſhall not be lyable, or ſubject to payment of any Coſts of Sute, otherwiſe, or in any other manner then as the Law, now requires.</p>
+            <p>And for the preventing the Abatement and Diſcontinuance of Proceſs for the future, in cer<g ref="char:EOLhyphen"/>tain Caſes, and the helping the Law in the particulars following.</p>
+            <p>Be it likewiſe Enacted by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That in all Actions to be Commenced, or brought in any Court of Record within this Kingdom, from, and after the Firſt day of <hi>May</hi> aforeſaid, if it ſhall happen that any perſon or perſons, being Plantiff or Plantiffs in ſuch Action or Actions, ſhall die after he or they ſhall have obtained any Interlocutary Iudg<g ref="char:EOLhyphen"/>ment, or Iudgments, in ſuch Action or Actions, and before a full and final Iudgment or Iudg<g ref="char:EOLhyphen"/>ments given therein, the Death of ſuch Plantiff or Plantiffs, ſhall not abate ſuch Action or Acti<g ref="char:EOLhyphen"/>ons or hinder the further proceédings of ſuch Cauſe, but that notwithſtanding ſuch dying of ſuch Plantiff or Plantiffs, his or their Exe<g ref="char:EOLhyphen"/>cutors,
+<pb n="9" facs="tcp:107362:5"/>
+or Adminiſtrators, may proceéd to Final Iudgment againſt the Defendant or Defendants, in ſuch Action or Actions, as is hereafter ſet forth. (If ſuch Action or Actions, ſhall happen to be ſuch, as by Law may, or might have beén Commenced, or Maintained Originally by any Executor or Adminiſtrator) as ſuch Plan<g ref="char:EOLhyphen"/>tiff or Plantiffs aforeſaid, might have done, if alive. And if it ſhall happen, that in any ſuch Action or Actions, the Defendant or Defendants in the ſame, ſhall die after ſuch Interlocutary, and before ſuch Final Iudgment or Iudg<g ref="char:EOLhyphen"/>ments obtained, as aforeſaid, ſuch dying ſhall not abate ſuch Action or Actions, but that then, notwithſtanding the Death of ſuch Defendant or Defendants, it ſhall and may be Lawful to, and for ſuch Plantiff or Plantiffs, in ſuch Action or Actions, it Living, and if Dead, his Exe<g ref="char:EOLhyphen"/>cutor or Adminiſtrator, to Proſecute ſuch their Action or Actions againſt the Executors or Ad<g ref="char:EOLhyphen"/>miniſtrators of ſuch Defendant or Defendants, and proceéd againſt them to Final Iudgment therein, as is likewiſe hereafter in that behalf ſet forth and provided, as if the ſaid Defendant or Defendants, themſelves, had beén Living; if ſuch Action or Actions be ſuch as may, or might by Law be Originally brought and pro<g ref="char:EOLhyphen"/>ſecuted againſt an Executor or Adminiſtrator.</p>
+            <p>And that in Caſe of the Death of ſuch Plan<g ref="char:EOLhyphen"/>tiff or Plantiffs, as aforeſaid, it ſhall, and may be Lawful to, and for his, and their Executors, or Adminiſtrators, or any of them, to Sue forth, and Proſecute one, or more Writ or Writs of <hi>Scire facias,</hi> againſt the Defendant or Defendants, in ſuch Action or Actions, if then Living, or if Dead, againſt the Executors, or Admini<g ref="char:EOLhyphen"/>ſtrators
+<pb n="10" facs="tcp:107362:6"/>
+of ſuch Defendant or Defendants, for Reviving and Continuing ſuch Sute, or Sutes, till Iudgment final ſhall be given therein; and in Caſe of the Death of ſuch Defendant, or De<g ref="char:EOLhyphen"/>fendants, as aforeſaid, it ſhall and may be law<g ref="char:EOLhyphen"/>ful, to, and for ſuch Plantiff or Plantiffs (if li<g ref="char:EOLhyphen"/>ving) and if Dead, his or their Executors, or Adminiſtrators, or any of them, in like manner to Sue forth, and Proſecute one, or more Writ, or Writs of <hi>Scire Facias</hi> againſt the Executors, or Adminiſtrators of ſuch Defendant, or De<g ref="char:EOLhyphen"/>fendants, for Reviving and Continuing ſuch Sute or Sutes, till Iudgment final ſhall be given therein, as aforeſaid; the Effect of which ſaid Writ, or Writs of <hi>Scire Facias,</hi> ſhall be for the party or parties againſt whom the ſame ſhall be Awarded, to ſhew cauſe, why notwith<g ref="char:EOLhyphen"/>ſtanding, ſuch the Death of any the parties to ſuch Sute or Sutes, aforeſaid; The Plantiff, or Plantiffs in the ſaid Writ or Writs, of <hi>Scire Facias,</hi> his, or their Executors, or Admini<g ref="char:EOLhyphen"/>ſtrators, ſhould not proceéd to Iudgment final therein, for the Recovery of ſuch Debt or Da<g ref="char:EOLhyphen"/>mage, for which ſuch Action or Actions, was at firſt brought. And if at the Return of ſuch Writ or Writs, of <hi>Scire facias,</hi> the Defendant or Defendants, named therein, ſhall appear, but not ſhew ſufficient Cauſe to ſtay, or Ar<g ref="char:EOLhyphen"/>reſt the Iudgment final, or in default of ſuch Appearance, it ſhall be Returned, that ſuch Defendant or Defendants were duly War<g ref="char:EOLhyphen"/>ned, or after Two ſuch Writs of <hi>Scire Facias</hi> re<g ref="char:EOLhyphen"/>turned; it be returned that the ſaid Defendant, or Defendants could not be found in the Bai<g ref="char:EOLhyphen"/>liwick where ſuch Summons Iſſued, or that they had nothing in the ſaid Bailiwick, by which
+<pb n="11" facs="tcp:107362:6"/>
+they, or any of them could be Summoned, that then, in every ſuch Caſe, One or more Writ, or Writs of Inquiry of Damage, ſhall be Awar<g ref="char:EOLhyphen"/>ded for the Plantiff or Plantiffs, in ſuch Writ, or Writs of <hi>Scire Facias,</hi> againſt ſuch Defendant, or Defendants therein named; upon return of which ſaid Writ, or Writs of Inquiry, duly Executed, Iudgment final ſhall be given for e<g ref="char:EOLhyphen"/>very ſuch Plantiff or Plantiffs, againſt every ſuch Defendant or Defendants, in ſuch Writ, or Writs of <hi>Scire Facias,</hi> as aforeſaid.</p>
+            <p>And be it further Enacted, for the Purpoſes a<g ref="char:EOLhyphen"/>foreſaid, That if at any time after the time Li<g ref="char:EOLhyphen"/>mitted, as aforeſaid, Two or more perſons ſhall be Ioyntly Plantiffs in any Action or Actions, againſt Two or more perſons, likewiſe Ioyntly named Defendants therein, the Death or Deaths, of One or more of ſuch Plantiff or Plantiffs, or ſuch Defendant or Defendants, ſhall not abate ſuch Writ or Writs, in ſuch Action or Actions, but that the ſame being ſuggeſted upon the Roll, or Record, of ſuch Action or Actions, it ſhall, and may be lawful to, and for the Survi<g ref="char:EOLhyphen"/>ving Plantiff or Plantiffs, in ſuch Action or Actions, to proceéd to Iudgment againſt the Surviving Defendant or Defendants, in the ſame, as if ſuch Death had not beén.</p>
+            <p>And whereas by the Law, as it now ſtands, if any Action or Sute be Commenced, or brought upon any Bond, or other penal Summ, for per<g ref="char:EOLhyphen"/>formance of Covenants, or other Agreéments, in any Deéd or Indenture; The party that brings the ſame, can Aſſign only One Breach of Cove<g ref="char:EOLhyphen"/>nant, altho' there are in Truth ſeveral Breaches Committed, of which the party Plantiff in ſuch Action, can have no Benefit, or Reparation, not<g ref="char:EOLunhyphen"/>withſtanding,
+<pb n="12" facs="tcp:107362:7"/>
+that he is really Damnified by Reaſon thereof. For Remedy whereof.</p>
+            <p>Be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That in all Actions, which from, and af<g ref="char:EOLhyphen"/>ter the ſaid Firſt Day of <hi>May,</hi> ſhall be Commen<g ref="char:EOLhyphen"/>ced, or Proſecuted in any of His Majeſty's Courts of Record, in this Kingdom, or any the Courts of the County Palatine of <hi>Tipperary,</hi> upon any Bond or Bonds, or on any Penal Summ, for Non-performance of any Covenants, or Agreé<g ref="char:EOLhyphen"/>ments, in any Indenture, Deéd, of Writing contained, the Plantiff or Plantiffs, may Aſſign as many Breaches of the ſaid Covenants, or A<g ref="char:EOLhyphen"/>greéments, as he, or they ſhall think fit: And thereupon, it ſhall and may be Lawful, for the Iury, upon ſuch Tryal of ſuch Action or Actions, not only to Aſſeſs ſuch Damages, and Coſts of Sute as have beén heretofore uſully done in ſuch Caſes; but alſo to give Damage for ſuch of the ſaid Breaches, ſo to be Aſſigned, as ſuch Plantiff or Plantiffs, upon ſuch Tryal of the Iſſues taken therein, ſhall prove to have beén Broken, and that the like Iudgment or Iudg<g ref="char:EOLhyphen"/>ments ſhall be Entred on every ſuch Verdict or Verdicts, as heretofore have beén uſually done in ſuch like Caſes. And if it ſhall happen, that ſuch Defendant or Defendants, ſhall not Plead to the Iſſue, but Iudgment ſhall be given a<g ref="char:EOLhyphen"/>gainſt him or them for ſuch Plantiff or Plan<g ref="char:EOLhyphen"/>tiffs, upon Demurrer, or by <hi>Nihil dicit, Non ſum Informatus, Cognovit Action.</hi> or the like; then, and in ſuch Caſe, it ſhall and may be Lawful, to, and for ſuch Plantiff or Plantiffs, to ſuggeſt up<g ref="char:EOLhyphen"/>on the Roll of Record, in ſuch Action or Actions, ſuch, and as many Breaches or the ſaid Cove<g ref="char:EOLhyphen"/>nants and Agreéments, as he or they ſhall think
+<pb n="13" facs="tcp:107362:7"/>
+fit upon which ſaid Suggeſtion, one, or more Writ, or Writs, ſhall Iſſue, directed to the Sheriff of that County, where ſuch Action or Actions ſhall be brought, to Summon a Iury to appear before the Iuſtice, or Iuſtices of Aſſize, or <hi>Niſi prius,</hi> at their next coming into that County, to enquire of the Truth of every one of thoſe Breaches, and ſuch Iury, to Aſſeſs the ſaid Damages ſeve<g ref="char:EOLhyphen"/>rally, which the ſaid Plantiff or Plantiffs ſhall have ſuſtained, for every of the ſaid Breaches ſo Aſſigned, as aforeſaid; in which ſaid Writ, it ſhall be likewiſe Commanded to the ſaid Iuſtice, or Iuſtices of Aſſize, or <hi>Niſi prius,</hi> before whom ſuch Damages ſhall be ſo given, that he, or they ſhall make a full and certain Return of the ſaid Writ or Writs, and the due Execution there<g ref="char:EOLhyphen"/>of to the Court from which the ſame ſhall ſo Iſſue, according to the Exigency thereof, and the time therein mentioned; which ſaid Writ or Writs ſo returned, ſhall be Filed, and there<g ref="char:EOLhyphen"/>upon Iudgment or Iudgments, ſhall be En<g ref="char:EOLhyphen"/>tred in the ſaid Court, on ſuch Return, as in Caſes of Writs of Enquiry of Damages, of the like nature. And in Caſe the Defendant or Defendants, after ſuch Iudgment Entred, and before Execution Executed, ſhall pay into the Court, where the ſaid Action ſhall be brought, to the uſe of the Plantiff or Plantiffs, his or their Executors, or Adminiſtrators, ſuch Da<g ref="char:EOLhyphen"/>mages ſo Aſſeſſed by the Iury, by reaſon of all, or any the Breaches of ſuch Covenants, to<g ref="char:EOLhyphen"/>gether with the Coſts of Sute, that then a Stay of Execution ſhall be Entred upon the Record of the ſaid Iudgment, and made accordingly for that time, as alſo, whenſoever it ſhall happen, that by reaſon of any Execution Sued forth,
+<pb n="14" facs="tcp:107362:8"/>
+and Executed upon ſuch Iudgment, the Plan<g ref="char:EOLhyphen"/>tiff or Plantiffs, his or their Executors, or Ad<g ref="char:EOLhyphen"/>miniſtrators, ſhall be fully Satisfied or Paid, all his or their Debt or Damages ſo Aſſeſſed, or the Penalty of ſuch Bond, or Bill penal, at the Election of the Defendant, together with his or their Coſts of Sute, and all reaſonable Charges and Expences for Executing the ſaid Execution; that then, and from thenceforth, the Body, Goods, and Lands of ſuch Defendant, ſhall be diſchar<g ref="char:EOLhyphen"/>ged from ſuch Execution, which ſaid Diſcharge, ſhall likewiſe be Entred upon the Record of the Roll of the ſaid Iudgment. Yet it is hereby declared, That notwithſtanding ſuch Diſcharges, or Stay of ſuch Executions, and the Entry or Entries of either, or any of them, as aforeſaid, upon Record, where ſuch Damages do not a<g ref="char:EOLhyphen"/>mount to the Penalty of ſuch Bond or Bill Penal, ſuch Iudgment or Iudgments, ſhall ſtill remain, continue, and be in full Force, Vigour, and Effect to the purpoſes hereafter mentioned (That is to ſay) As a further Security to an<g ref="char:EOLhyphen"/>ſwer to ſuch Plantiff or Plantiffs, and his, or their Executors, or Adminiſtrators; all ſuch Da<g ref="char:EOLhyphen"/>mages as ſhall, or may be at any time after<g ref="char:EOLhyphen"/>wards ſuſtained, for, or by reaſon of any further Breach of any the Covenant or Covenants in ſuch Indenture, Deéd, or Writing contained, if any ſuch ſhall happen to be, and no Satisfaction be made for the ſame, as aforeſaid, as far as the Remainder of ſuch Penalty, after the pay<g ref="char:EOLhyphen"/>ment of the Damage formerly Recovered out of the ſame, will reach; upon which ſaid Breach or Breaches, ſuch Plantiff, or Plantiffs may have, and ſhall be at Liberty to Sue forth a Writ of <hi>Scire facias</hi> upon the ſaid Iudgment
+<pb n="15" facs="tcp:107362:8"/>
+againſt ſuch Defendant or Defendants, his, or their Executors, or Adminiſtrators, or againſt his Heirs, or Ter-tenants, Grounded upon Sug<g ref="char:EOLhyphen"/>geſtion of other Breach or Breaches of the ſaid Covenants or Agreéments, upon the Roll of the ſaid Iudgment, as aforeſaid; and thereupon to Summon him or them reſpectively to ſhew Cauſe why Execution ſhould not be had or awarded upon the ſaid Iudgment; upon which, there ſhall be the like proceédings as was in the Original Action of Debt, brought upon the ſaid Bond or Obligation, for Aſſeſſing of Damages, upon Tryal of Iſſues, Ioyned upon ſuch Breaches; or in Caſe of Default upon a Writ of Inquiry thereof, to be awarded in manner as aforeſaid.</p>
+            <p>Provided always, That upon Payment, or Satisfaction to be made of all ſuch future Da<g ref="char:EOLhyphen"/>mages, Coſts and Charges, in manner as afore<g ref="char:EOLhyphen"/>ſaid, or of ſo much of ſuch future Damages as the Remaining Summ of the Penalty of ſuch Bond or Bill Penal, after Payment and Satisfaction for the Damages formerly recover<g ref="char:EOLhyphen"/>ed will extend unto, together with Coſts of Sute, all further proceédings, or the ſaid Iudg<g ref="char:EOLhyphen"/>ment ſhall again be ſtayed, and ſo <hi>Toties quo<g ref="char:EOLhyphen"/>ties</hi> (as Occaſion ſhall Require) upon every new Breach, the ſaid Iudgment to be made uſe of as far as aforeſaid, and no further, and upon Satisfaction made in manner aforeſaid, the De<g ref="char:EOLhyphen"/>fendant his Body or Goods and Lands to be again Freéd and Diſcharged out of Execution, as aforeſaid.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
